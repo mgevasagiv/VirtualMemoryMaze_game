@@ -36,6 +36,6 @@ When you are ready to return to the task, open the Pygame window and proceed to 
 
 ## Contributors: 
 - Maya Geva-Sagiv (github.com/mgevasagiv)
-- Serigne Diaw (https://github.com/serignediaw9)
+- Serigne Diaw (github.com/serignediaw9)
 - April Luo (github.com/aprilluo0421)
 - Kamin Kim (github.com/kaminkim)
