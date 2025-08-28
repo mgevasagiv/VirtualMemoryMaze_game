@@ -1,0 +1,42 @@
+task,block,trial,key_pressed,timestamp,coordinate,block_type,maze_ID,rt
+before_photodiode_square,,,,0.0013003000058233738
+after_photodiode_square,,,,0.5094479999970645
+before_photodiode_square,,,,1.1105241999030113
+after_photodiode_square,,,,1.6161505999043584
+before_photodiode_square,,,,2.2162825998384506
+after_photodiode_square,,,,2.7224522000178695
+before_photodiode_square,,,,3.322706899838522
+after_photodiode_square,,,,3.828929599840194
+before_photodiode_square,,,,4.429945099866018
+after_photodiode_square,,,,4.936409399844706
+before_photodiode_square,,,,5.536587399896234
+after_photodiode_square,,,,6.042688200017437
+before_photodiode_square,,,,6.642990099964663
+after_photodiode_square,,,,7.14906629989855
+inst - inst_nav,1,,,9.957016699947417
+inst - start,1,,,11.309189799940214
+nav,1,1,start,11.38926799991168,"(1.0, 1.0)",X,2,rabbit
+nav,1,1,right,14.702289700042456,"(2.0, 1.0)",N,2,rabbit
+nav,1,1,right,14.90220439992845,"(3.0, 1.0)",N,2,rabbit
+nav,1,1,right,15.046514899935573,"(4.0, 1.0)",N,2,rabbit
+nav,1,1,right,15.181716099847108,"(5.0, 1.0)",D,2,rabbit
+nav,1,1,down,15.318745899945498,"(5.0, 2.0)",N,2,rabbit
+nav,1,1,down,15.662953000050038,"(5.0, 3.0)",N,2,rabbit
+nav,1,1,down,15.781773200025782,"(5.0, 4.0)",N,2,rabbit
+nav,1,1,down,15.941849600058049,"(5.0, 5.0)",D,2,rabbit
+nav,1,1,down,16.08578519988805,"(5.0, 6.0)",N,2,rabbit
+nav,1,1,down,16.254356099991128,"(5.0, 7.0)",N,2,rabbit
+nav,1,1,left,16.38977809995413,"(4.0, 7.0)",N,2,rabbit
+nav,1,1,left,16.581648299936205,"(3.0, 7.0)",N,2,rabbit
+nav,1,1,left,16.727354499977082,"(2.0, 7.0)",N,2,rabbit
+nav,1,1,left,16.878933399915695,"(1.0, 7.0)",N,2,rabbit
+nav,1,1,up,17.037840700009838,"(1.0, 6.0)",N,2,rabbit
+nav,1,1,up,17.254287699935958,"(1.0, 5.0)",N,2,rabbit
+nav,1,1,up,17.398222199874,"(1.0, 4.0)",G,2,rabbit
+nav,1,1,up,17.541869399836287,"(1.0, 3.0)",E,2,rabbit
+before_photodiode_square,1,1,,18.54507949994877
+after_photodiode_square,1,1,,19.052185599924996
+before_photodiode_square,1,1,,19.65321270003915
+after_photodiode_square,1,1,,20.160327599849552
+before_photodiode_square,1,1,,20.760795600013807
+after_photodiode_square,1,1,,21.267628399888054
